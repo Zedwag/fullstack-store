@@ -1,0 +1,11 @@
+Backend 
+
+http://localhost:5000/api/auth/login
+http://localhost:5000/api/category
+http://localhost:5000/api/order
+
+Frontend
+
+/api/auth/login
+/api/category
+/api/order
